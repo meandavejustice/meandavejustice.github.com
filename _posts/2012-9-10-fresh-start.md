@@ -1,7 +1,6 @@
 ---
 layout: post
-category: 
-tags: [portland, cross-country, web development, coding, hack, punks, ]
+tags: [portland, cross-country, web development, coding, hack, punks,]
 ---
 
 ![Oregon](http://i.imgur.com/Efaox.jpg)
