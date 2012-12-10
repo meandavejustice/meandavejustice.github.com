@@ -34,10 +34,9 @@ a:hover {
 
 /* header */
 header {
-    float: right;
     position: fixed;
     top: 20px;
-    right: 20px;
+    left: 20px;
 }
 
 header li {
@@ -46,19 +45,17 @@ header li {
 
 .nav li {
     display: block;
-    text-align: right;
 }
 
 .logo {
     display: block;
-    background: url("http://davejustice.com/wp-content/themes/biggest%20bootstrap/img/logo.png") no-repeat;
+    background: url("http://i.imgur.com/TMMYI.png") no-repeat;
     width: 230px;
     height: 230px;
 }
 
 header:nth-child(2) ul {
     display: inline-block;
-    text-align: right;
 }
 
 /* The white background content wrapper */
