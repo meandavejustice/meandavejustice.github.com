@@ -4,11 +4,12 @@ title: Hire me
 ---
 
 ## Work Experience
-* Junior Developer at [Outthink Group](http://outthinkgroup.com/) 2011-2012
-* Freelance Developer at [Tixie](https://tixie.com/) 2012 - present
+* Junior Developer at [Outthink Group](http://outthinkgroup.com/) 2011 - 2012
+* Front-end Engineer at [Tixie](https://tixie.com/) 2012 - present
+* Freelance Developer at [Sprint.ly](https://sprint.ly/) January 2013 - present
 
 ##Volunteer Work
-[Speakertree Records](http://www.speakertree.net/)
+[BS Collective](http://bscollective.com)
 
 ##Education
 Studied Computer Science at Central Virginia Community College

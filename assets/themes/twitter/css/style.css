@@ -1,6 +1,6 @@
 /* Override some defaults */
 html, body {
-  background-color: #fff;
+  background: url('../bootstrap/img/debut_light.png');
 }
 
 .navbar {
@@ -49,7 +49,7 @@ header li {
 
 .logo {
     display: block;
-    background: url("http://i.imgur.com/TMMYI.png") no-repeat;
+    background: url('../bootstrap/img/nardwuar.png') no-repeat;
     width: 230px;
     height: 230px;
 }
