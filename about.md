@@ -7,11 +7,11 @@ description: ""
 
 ![hotsprings](http://i.imgur.com/ok63p.jpg)
 
-####testing
-I'm a web engineer currently residing in Portland, Oregon.
+I spend building stuff with javascript. Making music with javascript. Programming hardware with javascript.
+
 
 ###Say Hai
 * [davejustishh@gmail.com](mailto:davejustishh@gmail.com)
-* IRC: meandavejustice/meandave, #pdxpython/#fatlab
-* Twitter:[therealmeandave](https://twitter.com/therealmeandave)
+* IRC: JSONvoorhees, #pdxnode/#fatlab
+* Twitter:[therealmeandave](https://twitter.com/meandave2020)
 * Github: [meandavejustice](http://github.com/meandavejustice)

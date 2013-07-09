@@ -5,14 +5,12 @@ title: Hire me
 
 ## Work Experience
 * Junior Developer at [Outthink Group](http://outthinkgroup.com/) 2011 - 2012
-* Front-end Engineer at [Tixie](https://tixie.com/) 2012 - present
-* Freelance Developer at [Sprint.ly](https://sprint.ly/) January 2013 - present
+* Front-end Engineer at [Tixie](https://tixie.com/) 2012 - January 2013
+* Javascript Engineer at [glider](https://glider.com) January 2013 - May 2013
+* Javascript Engineer at [Sprint.ly](https://sprint.ly/) January 2013 - present
 
 ##Volunteer Work
 [BS Collective](http://bscollective.com)
-
-##Education
-Studied Computer Science at Central Virginia Community College
 
 ##Languages
 * Python
@@ -20,10 +18,8 @@ Studied Computer Science at Central Virginia Community College
 * HTML
 * CSS
 
-##Frameworks & CMS
+##Frameworks
+* Node.js
 * Django
 * Backbone.js
-* Wordpress
 
-##Other Skills
-Photoshop, I can out dress you and fix your car.
