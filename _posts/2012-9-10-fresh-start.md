@@ -20,6 +20,10 @@ This past week was about as equally rad as productive.
 * Fixed a lot of stuff with the back end of this blog
 
 * Got a bike
+* 
+
+# big header (H1)
+## big header (H2)
 
 Also, bought a book on Rails 3, gunna spend some time this week doing tutorials. I am probably gunna be posting some of the process on here. As well as links to any code on my Github.
 
