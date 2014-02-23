@@ -34,22 +34,16 @@ forward. There's already a module for that.
 
 Go ahead and install [marked-man](https://github.com/kapouer/marked-man)
 
-```
-npm install -g marked-man
-```
+`npm install -g marked-man`
 
 Now we just need to point marked-man to the markdown file we want to
 generate our manpage from.
 
-```
-marked-man README.md > doc/package-name.1
-```
+`marked-man README.md > doc/package-name.1`
 
 Try it out by running
 
-```
-man path/to/manpage
-```
+`man path/to/manpage`
 
 You should get something like this.
 
@@ -76,8 +70,6 @@ you can always run the
 
 [npm docs ...](https://www.npmjs.org/doc/cli/npm-docs.html) command:
 
-```
-npm docs {package-name}
-```
+`npm docs {package-name}`
 
 Go forth and generate more accessible documentation!
