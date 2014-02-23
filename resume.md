@@ -24,7 +24,10 @@ title: Hire me
 * Backbone.js
 
 ## Learning
-I will learn anything you throw at me. I spend my free time playing with all sorts of languages. I'm eager to work with any technology/tools as long as the problem interests me.
+I will learn anything you throw at me. I spend my free
+time playing with all sorts of languages.
+I'm eager to work with any
+technology/tools as long as the problem interests me.
 
 ## Community
 * Very active in organizing events with [pdxNode](http://pdxnode.org/)

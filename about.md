@@ -8,6 +8,7 @@ description: ""
 ![hotsprings](http://i.imgur.com/ok63p.jpg)
 
 Spend my days hacking on open source code in Portland, Oregon.
+
 Spend my nights making noises with JavaScript and Hardware.
 
 ### Say Hai
