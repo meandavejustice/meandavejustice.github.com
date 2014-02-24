@@ -52,10 +52,10 @@ You should get something like this.
 Now all we need to do is let npm know about our manpage. We'll edit
 our package.JSON.
 
-![](http://i.imgur.com/gKrOKBN.png)
+![](http://i.imgur.com/n1exAjl.png)
 
 If the module is installed globally with npm it will copy the manpages
-from the path specified in the `directories` property to
+from the path specified in the `man` property to
 `{prefix}/share/man`.
 
 It's as simple as that. If you'd like to dig in a little bit deeper on
@@ -64,6 +64,7 @@ this subject take a look at these resources.
 * [Unix and Node: Manual Pages](http://dailyjs.com/2012/02/16/unix-node-community/)
 * [Formatting Man Pages](http://www.fnal.gov/docs/products/ups/ReferenceManual/html/manpages.html)
 * [Marked-man](https://github.com/kapouer/marked-man)
+* [man npm docs](https://www.npmjs.org/doc/files/package.json.html#man)
 
 If your never without an internet connection or just hate man pages
 you can always run the
