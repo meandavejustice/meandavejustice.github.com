@@ -74,3 +74,9 @@ you can always run the
 `npm docs {package-name}`
 
 Go forth and generate more accessible documentation!
+
+## UPDATE
+
+The npm feature written about in this blog post is currently not
+working. You can track the issue
+[here](https://github.com/npm/npm/issues/4768).
