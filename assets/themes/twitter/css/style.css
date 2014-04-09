@@ -39,6 +39,10 @@ header {
     left: 20px;
 }
 
+header ul {
+  margin: 0;
+}
+
 header li {
     display: inline-block
 }
@@ -47,15 +51,38 @@ header li {
     display: block;
 }
 
-.logo {
+.logo.full {
     display: block;
     background: url('../bootstrap/img/nardwuar.png') no-repeat;
     width: 230px;
     height: 230px;
 }
 
+.logo.mobile {
+  display: none;
+  float: left;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 0 20px;
+}
+
 header:nth-child(2) ul {
     display: inline-block;
+}
+
+.gh {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url('../bootstrap/img/github.png');
+}
+
+.twitter {
+  display: inline-block;
+  background: url('../bootstrap/img/twitter.png');
+  width: 24px;
+  height: 24px;
 }
 
 /* The white background content wrapper */
@@ -69,4 +96,29 @@ header:nth-child(2) ul {
   -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
+}
+
+@media only screen and (max-width: 768px) {
+  header {
+    position: static;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  header ul {
+    float: left;
+  }
+
+  .logo.full {
+    display: none;
+  }
+
+  .logo.mobile {
+    display: block;
+  }
+
+  .nav li {
+    display: inline;
+    padding: 0 10px;
+  }
 }
