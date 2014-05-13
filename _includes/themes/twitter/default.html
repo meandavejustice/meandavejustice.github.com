@@ -28,7 +28,7 @@
   <body>
 
     <header>
-      <a class="logo full" href="/"></a>
+      <a class="logo full" href="javascript:void(0)"></a>
       <a class="logo mobile" href="/">Dave Justice</a>
         <ul>
             <li><a class="gh" href="https://github.com/meandavejustice.com/" alt="github"></a></li>
@@ -51,5 +51,17 @@
     </div> <!-- /container -->
 
     {% include JB/analytics %}
+
+    <script type="text/javascript">
+     var logo = document.querySelector('a.full');
+     logo.addEventListener('click', function() {
+       var bod = document.body;
+       if (bod.className.length) {
+         bod.className = '';
+       } else {
+         bod.className = "prism"
+       }
+     }, false);
+    </script>
   </body>
 </html>

@@ -122,3 +122,7 @@ header:nth-child(2) ul {
     padding: 0 10px;
   }
 }
+
+.prism {
+  -webkit-filter: sepia(100%) saturate(185%) brightness(111%) hue-rotate(73deg) invert(100%) hue-rotate(180deg) saturate(400%) brightness(111%);
+}
