@@ -51,17 +51,6 @@
     </div> <!-- /container -->
 
     {% include JB/analytics %}
-
-    <script type="text/javascript">
-     var logo = document.querySelector('a.full');
-     logo.addEventListener('click', function() {
-       var bod = document.body;
-       if (bod.className.length) {
-         bod.className = '';
-       } else {
-         bod.className = "prism"
-       }
-     }, false);
-    </script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/js/index.js"></script>
   </body>
 </html>
