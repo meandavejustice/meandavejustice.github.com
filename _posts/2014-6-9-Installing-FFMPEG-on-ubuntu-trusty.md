@@ -20,4 +20,4 @@ sudo apt-get update
 sudo apt-get install ffmpeg
 {% endhighlight %}
 
-Now go forth and build something rad with pyDub[http://pydub.com/]!
+Now go forth and build something rad with [pyDub](http://pydub.com/)!
