@@ -17,8 +17,8 @@ Portland, Oregon
 
 ## Work Experience
 #### Junior Developer at [OutthinkGroup](http://outthinkgroup.com/) 2011 - 2012
-I started moonlighting from my day job as an auto mechanic, building custom wordpress sites for 
-self-published authors with Outthink Group back in 2011. This was my first paid gig working
+In 2011 I started moonlighting from my day job as an auto mechanic to work with Outthink Group. We built
+custom wordpress sites for self-published authors. This was my first paid gig working
 with HTML, CSS, JavaScript, and PHP.
 
 #### Front-end Engineer at [Tixie](https://tixie.com/) 2012 - January 2013
@@ -27,15 +27,15 @@ I focused on building usable UIs and cleaning up technical debt. This was my fir
 working with Django/BackboneJS stack.
 
 #### JavaScript Engineer at [glider](https://glider.com) January 2013 - May 2013
-At Glider I helped rapidly build a front-end using Marionette BackboneJS. As well as helping
+At Glider I helped rapidly build a front-end using Marionette BackboneJS as well as helping
 to interview/on-board new hires. Glider was launched and presented at Techcrunch Disrupt NY 2013.
 
 #### JavaScript Engineer at [Sprint.ly](https://sprint.ly/) January 2013 - January 2014
-At Sprint.ly I helped take the existing front-end from under 1% test coverage to well over 50%. Built
-out a Selenium Testing Suite in python. Implemented the reports view feature. Worked on cleaning
-up and adding more functionality to a plethora of existing components. Dramatically sped
-up the app by fixing rendering issues and adding more optimistic loading ui elements. Converted
-many outdated jQuery libraries into reusable modules. Helped to on-board new engineers.
+At Sprint.ly I helped take the existing front-end from under 1% test coverage to well over 50%, built
+out a Selenium Testing Suite in python, implemented the reports view feature, worked on cleaning
+up and adding more functionality to a plethora of existing components, dramatically sped
+up the app by fixing rendering issues and adding more optimistic loading ui elements, converted
+many outdated jQuery libraries into reusable modules, and helped to on-board new engineers.
 
 #### JavaScript Engineer at [QuickLeft](http://quickleft.com/) January 2014 - February 2014
 After the merger between Sprint.ly and Quickleft I helped to get Quickleft engineers familiar
