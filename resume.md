@@ -19,6 +19,9 @@ Portland, Oregon
 
 #### Contracting JavaScript Engineer on multiple projects February 2014 - present
 
+<br/>
+
+
 #### JavaScript Engineer at [QuickLeft](http://quickleft.com/) January 2014 - February 2014
 After the merger between Sprint.ly and Quickleft I helped to get Quickleft engineers familiar
 with the Sprint.ly codebase.
