@@ -16,19 +16,12 @@ Portland, Oregon
 * Javascript/Node.js Community Member
 
 ## Work Experience
-#### Junior Developer at [OutthinkGroup](http://outthinkgroup.com/) 2011 - 2012
-In 2011 I started moonlighting from my day job as an auto mechanic to work with Outthink Group. We built
-custom wordpress sites for self-published authors. This was my first paid gig working
-with HTML, CSS, JavaScript, and PHP.
 
-#### Front-end Engineer at [Tixie](https://tixie.com/) 2012 - January 2013
-Tixie was my first full time Development contract. Here I assisted in launching a full app rewrite.
-I focused on building usable UIs and cleaning up technical debt. This was my first experience
-working with Django/BackboneJS stack.
+#### Contracting JavaScript Engineer on multiple projects February 2014 - present
 
-#### JavaScript Engineer at [glider](https://glider.com) January 2013 - May 2013
-At Glider I helped rapidly build a front-end using Marionette BackboneJS as well as helping
-to interview/on-board new hires. Glider was launched and presented at Techcrunch Disrupt NY 2013.
+#### JavaScript Engineer at [QuickLeft](http://quickleft.com/) January 2014 - February 2014
+After the merger between Sprint.ly and Quickleft I helped to get Quickleft engineers familiar
+with the Sprint.ly codebase.
 
 #### JavaScript Engineer at [Sprint.ly](https://sprint.ly/) January 2013 - January 2014
 At Sprint.ly I helped take the existing front-end from under 1% test coverage to well over 50%, built
@@ -37,11 +30,19 @@ up and adding more functionality to a plethora of existing components, dramatica
 up the app by fixing rendering issues and adding more optimistic loading ui elements, converted
 many outdated jQuery libraries into reusable modules, and helped to on-board new engineers.
 
-#### JavaScript Engineer at [QuickLeft](http://quickleft.com/) January 2014 - February 2014
-After the merger between Sprint.ly and Quickleft I helped to get Quickleft engineers familiar
-with the Sprint.ly codebase.
+#### JavaScript Engineer at [glider](https://glider.com) January 2013 - May 2013
+At Glider I helped rapidly build a front-end using Marionette BackboneJS as well as helping
+to interview/on-board new hires. Glider was launched and presented at Techcrunch Disrupt NY 2013.
 
-#### Contracting JavaScript Engineer on multiple projects February 2014 - present
+#### Front-end Engineer at [Tixie](https://tixie.com/) 2012 - January 2013
+Tixie was my first full time Development contract. Here I assisted in launching a full app rewrite.
+I focused on building usable UIs and cleaning up technical debt. This was my first experience
+working with Django/BackboneJS stack.
+
+#### Junior Developer at [OutthinkGroup](http://outthinkgroup.com/) 2011 - 2012
+In 2011 I started moonlighting from my day job as an auto mechanic to work with Outthink Group. We built
+custom wordpress sites for self-published authors. This was my first paid gig working
+with HTML, CSS, JavaScript, and PHP.
 
 ## Open Source
 * [http://github.com/meandavejustice](http://github.com/meandavejustice)
