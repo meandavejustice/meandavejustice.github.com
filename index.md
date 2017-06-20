@@ -3,8 +3,9 @@ layout: page
 ---
 
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+![mask](http://i.imgur.com/2ml0Vsm.jpg)
+
+### oi
+* Email: [davejustishh@gmail.com](mailto:davejustishh@gmail.com)
+* MOZILLA IRC: JSON_voorhees
+* Github: [@meandavejustice](http://github.com/meandavejustice)
