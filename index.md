@@ -6,6 +6,5 @@ layout: page
 ![mask](http://i.imgur.com/2ml0Vsm.jpg)
 
 ### oi
-* Email: [davejustishh@gmail.com](mailto:davejustishh@gmail.com)
-* MOZILLA IRC: JSON_voorhees
+* Email: [meandave@protonmail.com](mailto:meandave@protonmail.com)
 * Github: [@meandavejustice](http://github.com/meandavejustice)
