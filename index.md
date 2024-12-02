@@ -7,4 +7,7 @@ layout: page
 
 ### oi
 * Email: [meandave@protonmail.com](mailto:meandave@protonmail.com)
-* Github: [@meandavejustice](http://github.com/meandavejustice)
+* Github: [@meandavejustice](https://github.com/meandavejustice)
+* Engineering: [justice.engineering](https://justice.engineering)
+* [Resume](https://github.com/meandavejustice/resume/blob/master/DavidJusticeResume.pdf)
+* I am the founder of [Don't Forget the Streets Harm Reduction](https://dontforgetthestreets.com)
